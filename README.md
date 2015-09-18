@@ -10,6 +10,7 @@
 - Describes domain logic (app rules and behavior, or business logic)
 - Independent of the user interface
 - Internal APIs of the system
+- Knows nothing about and is completely decoupled from the view
 - Sometime a model is also responsible for persistence (storing and retreiving app data)
 
 ### View
