@@ -4,7 +4,7 @@
 - Developed in the 1970s by Smalltalk programmers for desktop apps
 - Has taken off in popularity as a design pattern for the web
 - Many web frameworks, including Ruby on Rails, follow the MVC pattern
-- MVC helps us seperate domain logic from user interface
+- MVC is all about separation of concerns, it helps us seperate domain logic from user interface
 
 ### Model
 - Describes domain logic (app rules and behavior, or business logic)
