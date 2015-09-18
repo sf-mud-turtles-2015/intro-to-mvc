@@ -8,6 +8,7 @@
 ### Model
 - Describes domain logic (app logic and rules)
 - Independent of the user interface
+- Sometime a model is also responsible for persistence (storing and retreiving app data)
 
 ### View
 - Presentation version of the model
